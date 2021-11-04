@@ -8,12 +8,6 @@
     git clone https://github.com/Sordun/Django3_web.git
     ```
 
-1. Перейдите в папку проекта:
-
-    ```code
-    cd Shop
-    ```
-
 1. Выполните команду для создания виртуального окружения:
 
     ```code
@@ -30,6 +24,12 @@
 
     ```code
     pip install -r requirements.txt
+    ```
+
+1. Перейдите в папку проекта:
+
+    ```code
+    cd Shop
     ```
 
 1. Проведите миграции БД при помощи команды:
